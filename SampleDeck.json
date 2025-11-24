@@ -1,0 +1,7 @@
+{
+    "latest_version": "1.0.1",
+    "minimum_supported_version": "1.0.1",
+    "blacklisted_versions": ["1.0.5", "1.1.0"],
+    "download_url": "https://your-site.com/downloads",
+    "force_disable_all": false
+}
