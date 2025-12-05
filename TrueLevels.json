@@ -1,0 +1,8 @@
+{
+  "latest_version": "0.1.1",
+  "minimum_supported_version": "0.1.1",
+  "LTS_version": ["0.1.1", "0.1.2"],
+  "blacklisted_versions": ["1.0.51", "1.1.10"],
+  "download_url": "https://your-site.com/downloads",
+  "force_disable_all": false
+}
