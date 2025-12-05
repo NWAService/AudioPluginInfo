@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.2.1",
+  "latest_version": "0.1.1",
   "minimum_supported_version": "0.1.0",
   "LTS_version": ["0.1.0", "0.1.2"],
   "blacklisted_versions": ["1.0.51", "1.1.10"],
