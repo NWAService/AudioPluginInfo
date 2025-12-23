@@ -1,0 +1,8 @@
+{
+    "latest_version": "0.1.0",
+    "minimum_supported_version": "0.0.1",
+    "LTS_version": ["0.0.1"],
+    "blacklisted_versions": ["0.0.2"],
+    "download_url": "https://audio.nestware.jp/#/product/direct-chrome",
+    "force_disable_all": false
+}
